@@ -2,3 +2,7 @@ to jest testowy plik
 
 
 zmiany zmiany
+
+jeszcze jedna
+
+kolejna
